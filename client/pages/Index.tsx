@@ -39,7 +39,7 @@ export default function Index() {
       {/* Hero */}
       <section className="relative overflow-hidden">
         <img
-          src="https://images.pexels.com/photos/8466771/pexels-photo-8466771.jpeg"
+          src="/zhzd1.jpeg"
           alt="Smiling children eating together at school"
           className="absolute inset-0 h-full w-full object-cover"
         />

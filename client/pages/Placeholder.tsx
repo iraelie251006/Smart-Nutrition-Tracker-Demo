@@ -12,7 +12,7 @@ export default function Placeholder({ title, subtitle, cta }: { title: string; s
             <Link to="/growth-tracker">Try the Demo</Link>
           </Button>
           <Button asChild variant="outline" className="rounded-xl">
-            <a href="mailto:niyubwayoiraelie5777@gmail.com">{cta || "Contact Us"}</a>
+            <a href="mailto:thierryhareriamana@gmail.com">{cta || "Contact Us"}</a>
           </Button>
         </div>
       </div>

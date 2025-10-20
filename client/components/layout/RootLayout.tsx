@@ -45,7 +45,7 @@ export default function RootLayout() {
           </nav>
           <div className="flex items-center gap-2">
             <Button asChild variant="outline" className="hidden md:inline-flex rounded-xl">
-              <a href="mailto:niyubwayoiraelie5777@gmail.com">Contact</a>
+              <a href="mailto:thierryhareriamana@gmail.com">Contact</a>
             </Button>
             <Button asChild className="rounded-xl">
               <Link to="/growth-tracker">View Demo</Link>
@@ -85,7 +85,7 @@ export default function RootLayout() {
               <a href="#" aria-label="LinkedIn" className="inline-flex h-9 w-9 items-center justify-center rounded-lg border hover:bg-muted">
                 <Linkedin className="h-5 w-5" />
               </a>
-              <a href="mailto:niyubwayoiraelie5777@gmail.com" aria-label="Email" className="inline-flex h-9 w-9 items-center justify-center rounded-lg border hover:bg-muted">
+              <a href="mailto:thierryhareriamana@gmail.com" aria-label="Email" className="inline-flex h-9 w-9 items-center justify-center rounded-lg border hover:bg-muted">
                 <Mail className="h-5 w-5" />
               </a>
             </div>

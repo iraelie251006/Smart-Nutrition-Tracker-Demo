@@ -356,7 +356,7 @@ export default function Education() {
             <Link to="/growth-tracker">{lang === "en" ? "Try Growth Tracker" : "Gerageza urubaho rwo gukurikirana"}</Link>
           </Button>
           <Button asChild variant="outline" className="rounded-xl">
-            <a href="mailto:niyubwayoiraelie5777@gmail.com">{lang === "en" ? "Share with Parents" : "Sangiza ababyeyi"}</a>
+            <a href="mailto:thierryhareriamana@gmail.com">{lang === "en" ? "Share with Parents" : "Sangiza ababyeyi"}</a>
           </Button>
         </div>
       </section>

@@ -70,8 +70,9 @@ export default function RootLayout() {
             <p className="font-semibold mb-2">Contact</p>
             <ul className="space-y-1 text-sm">
               <li>
-                <a className="hover:underline" href="mailto:niyubwayoiraelie5777@gmail.com">niyubwayoiraelie5777@gmail.com</a>
+                <a className="hover:underline" href="mailto:thierryhareriamana@gmail.com">thierryhareriamana@gmail.com</a>
               </li>
+              <li className="text-muted-foreground">Tel: +250 780 158 711</li>
               <li className="text-muted-foreground">Kigali, Rwanda</li>
             </ul>
           </div>
